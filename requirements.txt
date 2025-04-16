@@ -1,0 +1,4 @@
+crccheck==1.1
+pyserial==3.5
+stm32loader==0.5.1
+requests
