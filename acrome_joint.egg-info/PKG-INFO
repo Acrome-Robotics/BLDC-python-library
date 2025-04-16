@@ -1,0 +1,31 @@
+Metadata-Version: 2.4
+Name: acrome-joint
+Version: 1.0.5
+Summary: communication library for Acrome Joint devices
+Home-page: https://github.com/Acrome-Robotics/BLDC-python-library
+Author: Berat Computer
+Author-email: beratdogan@acrome.net
+Project-URL: Bug Tracker, https://github.com/Acrome-Robotics/BLDC-python-library/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pyserial
+Requires-Dist: crccheck
+Requires-Dist: stm32loader==0.5.1
+Requires-Dist: requests
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# Joint-python-library
